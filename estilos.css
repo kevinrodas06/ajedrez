@@ -1,0 +1,43 @@
+body{
+    text-align:center;
+    background-color: rgb(44, 27, 131);
+}
+
+.contenedor{
+background: rgba(10, 28,16, 6);
+width: 480px;
+height: 480px;
+background: rgb(2, 252, 252);
+margin: 0 auto;
+border: 3px solid #ec1111;
+border-radius: 4px;
+}
+
+.blanco{
+    width: 60px;
+    height: 60px;
+    background: white;
+}
+.negro{
+    width: 60px;
+    height: 60px;
+    background: black;
+}
+.col-a{
+    width: 60px;
+    z-index: 100;
+    float:left;
+}
+
+.ficha-black{
+    font-size: 50px;
+    color: rgb(238, 5, 5);
+}
+.ficha-white{
+    font-size: 50px;
+    color: rgb(29, 8, 121);
+}
+.h1{
+    text-align: center;
+    color: rgb(223, 53, 41);
+}
